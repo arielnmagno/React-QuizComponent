@@ -1,4 +1,4 @@
-import { React, Component } from "react";
+import React, { Component } from "react";
 
 //fetch quiz file
 let quizData = require("./quiz_data.json");
